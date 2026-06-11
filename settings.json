@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "xByAlvaroSSJ_MC.aternos.me:34249",
+    "ip": "xByAlvaroSSJ_MC.aternos.me",
     "port": 34249,
     "version": "1.21",
     "try-creative": false
